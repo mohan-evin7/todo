@@ -1,0 +1,29 @@
+.list{
+    color: #fff;
+    width: 400px;
+    margin: 20px auto;
+    height: 60px;
+    max-width: 600px;
+    max-height: 200px;
+    background-color: black;
+    border-radius: 5px;
+    top: auto;
+
+}
+.list p{
+    padding: 10px;
+    position: relative;
+    transition: ease-in-out;
+
+    
+    
+}
+
+.list p button{
+    position: absolute;
+    right: 10px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20%;
+}
+
